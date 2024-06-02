@@ -1,1 +1,1 @@
-Việt Nam:localhost:14445
+Việt Nam:192.168.0.100:14445

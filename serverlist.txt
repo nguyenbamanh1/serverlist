@@ -1,1 +1,1 @@
-Việt Nam:14.225.218.210:14445
+Việt Nam:14.225.218.210:14445;LocalHost:localhost:14445
